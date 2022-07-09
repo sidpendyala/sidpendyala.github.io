@@ -324,17 +324,17 @@ a.active {
 /* experience section
 ==================================================*/
 
-#experience {
+#projects {
     padding: 100px 0;
     background: #dff3e4
 }
 
-.experience-row {
+.projects-row {
     padding: 20px 0;
     border-bottom: 1px solid #dff3e4;
 }
 
-.experience-row h3 {
+.projects-row h3 {
     font-family: 'Lato', sans-serif;
     text-transform: capitalize;
     letter-spacing: 2px;
@@ -343,13 +343,13 @@ a.active {
     font-weight: bold
 }
 
-.experience-row p {
+.projects-row p {
     color: #7180b9;
     margin-top: 20px;
     font-size: 15px;
 }
 
-.experience-row .date {
+.projects-row .date {
     color: #2e1760;
     font-size: 17px;
 }
